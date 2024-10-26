@@ -1,0 +1,50 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 900" width="1440" height="900" fill="none">
+  <rect width="1440" height="900" fill="#fff"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="1440" height="60" fill="#161617"></rect>
+    <rect x="0" y="60" width="1440" height="0" fill="#e5e7eb"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="25" height="25" fill="#f5f5f7" x="32" y="17.5" opacity="100%">
+    <path d="M255.03 261.65c6.25 6.25 16.38 6.25 22.63 0l11.31-11.31c6.25-6.25 6.25-16.38 0-22.63L253.25 192l35.71-35.72c6.25-6.25 6.25-16.38 0-22.63l-11.31-11.31c-6.25-6.25-16.38-6.25-22.63 0l-58.34 58.34c-6.25 6.25-6.25 16.38 0 22.63l58.35 58.34zm96.01-11.3l11.31 11.31c6.25 6.25 16.38 6.25 22.63 0l58.34-58.34c6.25-6.25 6.25-16.38 0-22.63l-58.34-58.34c-6.25-6.25-16.38-6.25-22.63 0l-11.31 11.31c-6.25 6.25-6.25 16.38 0 22.63L386.75 192l-35.71 35.72c-6.25 6.25-6.25 16.38 0 22.63zM624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z"></path>
+  </svg>
+  <g opacity="100%">
+    <text x="65" y="37" font-family="Work Sans" font-size="20" fill="#f5f5f7" letter-spacing="0" font-weight="700" font-style="normal">DigitalPro</text>
+  </g>
+  <g opacity="100%">
+    <text x="1289" y="36.5" font-family="Work Sans" font-size="18" fill="#f5f5f7" letter-spacing="-0.45" font-weight="500" font-style="normal">CV</text>
+  </g>
+  <g opacity="100%">
+    <text x="1336" y="36.5" font-family="Work Sans" font-size="18" fill="#f5f5f7" letter-spacing="-0.45" font-weight="500" font-style="normal">Portfolio</text>
+  </g>
+  <g opacity="100%">
+    <rect x="432" y="336" width="576" height="288" fill="rgba(22,22,23,0.7)" stroke="#e5e7eb" stroke-width="0" rx="8"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="464" y="400" font-family="Work Sans" font-size="36" fill="#f5f5f7" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan x="521">Welcome to DigitalPro</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="464" y="444.5" font-family="Work Sans" font-size="18" fill="#f5f5f7" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan x="470">Explore the world of digital innovations and professional</tspan>
+    </text>
+    <text x="464" y="472.5" font-family="Work Sans" font-size="18" fill="#f5f5f7" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan x="485">expertise with our specialist, who brings a wealth of</tspan>
+    </text>
+    <text x="464" y="500.5" font-family="Work Sans" font-size="18" fill="#f5f5f7" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan x="570">experience in the digital industry.</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect x="618" y="540" width="203" height="52" fill="#0071e3" stroke="#e5e7eb" stroke-width="0" rx="26"></rect>
+    <text x="642.5" y="572.5" font-family="Work Sans" font-size="18" fill="#fff" letter-spacing="0" font-weight="500" font-style="normal">
+      <tspan>View CV/Portfolio</tspan>
+    </text>
+  </g>
+  <defs>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
